@@ -13,7 +13,7 @@ a separate connection to the Web server and the server,
 by default, does not keep any record of previous client requests.
 
 The Stateless Service design principle has become ubiquitous in the 
-technology industry for creating horizontally scalable services. 
+technology industry for creating horizontally scalable service. 
 
 ## Stateful Apps
 
